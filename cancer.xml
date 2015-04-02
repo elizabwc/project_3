@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>3,837,885</Count>
+<Percent>100</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Prostate</Cancer_Site>
+<Count>1,058,291</Count>
+<Percent>27.6</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>549,504</Count>
+<Percent>14.3</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>352,805</Count>
+<Percent>9.2</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Bladder</Cancer_Site>
+<Count>247,639</Count>
+<Percent>6.5</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Melanomas of the Skin</Cancer_Site>
+<Count>178,045</Count>
+<Percent>4.6</Percent>
+<Sex>Male</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>3,588,516</Count>
+<Percent>100</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Breast</Cancer_Site>
+<Count>1,043,559</Count>
+<Percent>29.1</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>477,133</Count>
+<Percent>13.3</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>333,191</Count>
+<Percent>9.3</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Uterus</Cancer_Site>
+<Count>218,757</Count>
+<Percent>6.1</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Thyroid</Cancer_Site>
+<Count>151,374</Count>
+<Percent>4.2</Percent>
+<Sex>Female</Sex>
+<Race>All</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>253,303</Count>
+<Percent>100</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Prostate</Cancer_Site>
+<Count>67,345</Count>
+<Percent>26.6</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>26,814</Count>
+<Percent>10.6</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>22,812</Count>
+<Percent>9</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Kidney &amp; Renal Pelvis</Cancer_Site>
+<Count>13,491</Count>
+<Percent>5.3</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Non-Hodgkin Lymphoma</Cancer_Site>
+<Count>13,175</Count>
+<Percent>5.2</Percent>
+<Sex>Male</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>12,673</Count>
+<Percent>100</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Prostate</Cancer_Site>
+<Count>2,675</Count>
+<Percent>21.1</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>1,791</Count>
+<Percent>14.1</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>1,530</Count>
+<Percent>12.1</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Kidney &amp; Renal Pelvis</Cancer_Site>
+<Count>975</Count>
+<Percent>7.7</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Liver &amp; Intrahepatic Bile Duct</Cancer_Site>
+<Count>604</Count>
+<Percent>4.8</Percent>
+<Sex>Male</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>3,236,594</Count>
+<Percent>100</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Prostate</Cancer_Site>
+<Count>839,401</Count>
+<Percent>25.9</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>471,210</Count>
+<Percent>14.6</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>294,519</Count>
+<Percent>9.1</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Bladder</Cancer_Site>
+<Count>227,655</Count>
+<Percent>7</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Melanomas of the Skin</Cancer_Site>
+<Count>169,139</Count>
+<Percent>5.2</Percent>
+<Sex>Male</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>414,887</Count>
+<Percent>100</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Prostate</Cancer_Site>
+<Count>153,919</Count>
+<Percent>37.1</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>60,839</Count>
+<Percent>14.7</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>40,811</Count>
+<Percent>9.8</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Kidney &amp; Renal Pelvis</Cancer_Site>
+<Count>17,352</Count>
+<Percent>4.2</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Non-Hodgkin Lymphoma</Cancer_Site>
+<Count>12,782</Count>
+<Percent>3.1</Percent>
+<Sex>Male</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>261,213</Count>
+<Percent>100</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Breast</Cancer_Site>
+<Count>74,859</Count>
+<Percent>28.7</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>22,770</Count>
+<Percent>8.7</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Thyroid</Cancer_Site>
+<Count>17,921</Count>
+<Percent>6.9</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>17,889</Count>
+<Percent>6.8</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Uterus</Cancer_Site>
+<Count>16,888</Count>
+<Percent>6.5</Percent>
+<Sex>Female</Sex>
+<Race>Hispanic/Latino</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>13,693</Count>
+<Percent>100</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Breast</Cancer_Site>
+<Count>3,579</Count>
+<Percent>26.1</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>1,758</Count>
+<Percent>12.8</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>1,451</Count>
+<Percent>10.6</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Uterus</Cancer_Site>
+<Count>911</Count>
+<Percent>6.7</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Kidney &amp; Renal Pelvis</Cancer_Site>
+<Count>676</Count>
+<Percent>4.9</Percent>
+<Sex>Female</Sex>
+<Race>American Indian/Alaskan Native</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>3,038,335</Count>
+<Percent>100</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Breast</Cancer_Site>
+<Count>876,035</Count>
+<Percent>28.8</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>416,434</Count>
+<Percent>13.7</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>275,296</Count>
+<Percent>9.1</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Uterus</Cancer_Site>
+<Count>185,154</Count>
+<Percent>6.1</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Thyroid</Cancer_Site>
+<Count>127,305</Count>
+<Percent>4.2</Percent>
+<Sex>Female</Sex>
+<Race>White</Race>
+</ROW>
+<ROW>
+<Cancer_Site>All Sites</Cancer_Site>
+<Count>380,128</Count>
+<Percent>100</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Breast</Cancer_Site>
+<Count>117,669</Count>
+<Percent>31</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Lung &amp; Bronchus</Cancer_Site>
+<Count>46,717</Count>
+<Percent>12.3</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Colon &amp; Rectum</Cancer_Site>
+<Count>41,807</Count>
+<Percent>11</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Uterus</Cancer_Site>
+<Count>22,784</Count>
+<Percent>6</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+<ROW>
+<Cancer_Site>Pancreas</Cancer_Site>
+<Count>12,679</Count>
+<Percent>3.3</Percent>
+<Sex>Female</Sex>
+<Race>Black</Race>
+</ROW>
+</ROWSET>
